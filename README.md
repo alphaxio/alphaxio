@@ -81,9 +81,9 @@ Event Ticketing          →  End-to-end Ticket Lifecycle · Real-time Reporting
 
 <div align="center">
 
-[![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaxio&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/alphaxio)
+[![Isaac's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphaxio&theme=github_dark)](https://github.com/alphaxio)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaxio&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alphaxio)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alphaxio&theme=github_dark)](https://github.com/alphaxio)
 
 </div>
 
