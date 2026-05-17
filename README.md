@@ -6,7 +6,7 @@
 
 *Building scalable, reliable systems that solve real problems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-adegboye-bb4598124)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adegboye.izik@gmail.com)
 
 </div>
