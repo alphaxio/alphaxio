@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋, I'm Isaac Adegboye
+# Hi there!, I'm Isaac Adegboye
 
-### Software Engineer · Lagos, Nigeria
+### Software Engineer · Full-Stack
 
 *Building scalable, reliable systems that solve real problems*
 
@@ -81,9 +81,9 @@ Event Ticketing          →  End-to-end Ticket Lifecycle · Real-time Reporting
 
 <div align="center">
 
-![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaxio&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800)
+[![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaxio&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/alphaxio)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaxio&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaxio&layout=compact&theme=github_dark&hide_border=true)](https://github.com/alphaxio)
 
 </div>
 
