@@ -1,17 +1,10 @@
 <div align="center">
 
-```
-██╗███████╗ █████╗  █████╗  ██████╗
-██║██╔════╝██╔══██╗██╔══██╗██╔════╝
-██║███████╗███████║███████║██║
-██║╚════██║██╔══██║██╔══██║██║
-██║███████║██║  ██║██║  ██║╚██████╗
-╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
-```
+# Hi there 👋, I'm Isaac Adegboye
 
-### Full-Stack Engineer · Fintech & Creator Economy · Lagos, Nigeria
+### Software Engineer · Lagos, Nigeria
 
-*Building reliable financial infrastructure for the next generation of African tech*
+*Building scalable, reliable systems that solve real problems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-adegboye-bb4598124)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adegboye.izik@gmail.com)
@@ -22,7 +15,7 @@
 
 ## About
 
-4+ years engineering high-traffic platforms across Nigerian fintech, e-commerce, and the creator economy. I've contributed to systems serving **2 million+ users** — from marketing automation engines and crypto exchanges to bill payment infrastructure and event ticketing platforms.
+6+ years engineering high-traffic platforms across fintech, e-commerce, logistics, and the creator economy. I've contributed to systems serving **2 million+ users** — from marketing automation engines and crypto exchanges to bill payment infrastructure and event ticketing platforms.
 
 I care about systems that are **secure**, **scalable**, and built to last.
 
@@ -46,6 +39,11 @@ I care about systems that are **secure**, **scalable**, and built to last.
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
+#### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+
 #### Database & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -68,9 +66,12 @@ I care about systems that are **secure**, **scalable**, and built to last.
 ## Areas of Expertise
 
 ```
-Fintech Systems          →  Wallets · Crypto Exchanges · Bill Payments · Agency Banking
-Marketing Infrastructure →  Automation Engines · Email at 1M+ Monthly Volume
+Fintech Systems          →  Wallets · Crypto Exchanges · Bill Payments · Loan Systems · Agency Banking
+Marketing & Automation   →  Automation Engines · Email at 1M+ Monthly Volume · Action Triggers
+AI-Assisted Development  →  LLM Integration · AI-powered Tooling · Prompt Engineering
+Creator Economy          →  Platform Infrastructure · Monetization Systems · Audience Analytics
 E-commerce Platforms     →  Multi-vendor · Logistics Integration · Secure Checkout
+Logistics Systems        →  Route Planning · Real-time Tracking · Distance-based Pricing
 Event Ticketing          →  End-to-end Ticket Lifecycle · Real-time Reporting
 ```
 
@@ -78,11 +79,16 @@ Event Ticketing          →  End-to-end Ticket Lifecycle · Real-time Reporting
 
 ## GitHub Activity
 
-![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaxio&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaxio&layout=compact&theme=github_dark&hide_border=true)
+<div align="center">
+
+![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaxio&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaxio&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Open to impactful roles in fintech, infrastructure, and product engineering.</i>
+  <i>Open to impactful engineering roles across fintech, product, and infrastructure.</i>
 </div>
