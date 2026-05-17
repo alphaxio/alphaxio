@@ -15,7 +15,7 @@
 
 ## About
 
-4+ years engineering high-traffic platforms across fintech, e-commerce, logistics, and the creator economy. I build systems that are **secure**, **scalable**, and built to last.
+6+ years engineering high-traffic platforms across fintech, e-commerce, logistics, and the creator economy. I build systems that are **secure**, **scalable**, and built to last.
 
 I care about systems that are **secure**, **scalable**, and built to last.
 
