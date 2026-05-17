@@ -15,7 +15,7 @@
 
 ## About
 
-6+ years engineering high-traffic platforms across fintech, e-commerce, logistics, and the creator economy. I've contributed to systems serving **2 million+ users** — from marketing automation engines and crypto exchanges to bill payment infrastructure and event ticketing platforms.
+4+ years engineering high-traffic platforms across fintech, e-commerce, logistics, and the creator economy. I build systems that are **secure**, **scalable**, and built to last.
 
 I care about systems that are **secure**, **scalable**, and built to last.
 
