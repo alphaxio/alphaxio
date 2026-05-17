@@ -15,9 +15,7 @@
 
 ## About
 
-6+ years engineering high-traffic platforms across fintech, e-commerce, logistics, and the creator economy. I build systems that are **secure**, **scalable**, and built to last.
-
-I care about systems that are **secure**, **scalable**, and built to last.
+6+ years building and scaling high-traffic platforms across multiple industries. I care about systems that are **secure**, **scalable**, and built to last.
 
 ---
 
@@ -63,19 +61,17 @@ I care about systems that are **secure**, **scalable**, and built to last.
 
 ---
 
-## Areas of Expertise
+## Skills
 
 ```
-Fintech Systems          →  Wallets · Crypto Exchanges · Bill Payments · Loan Systems · Agency Banking
-Marketing & Automation   →  Automation Engines · Email at 1M+ Monthly Volume · Action Triggers
-AI-Assisted Development  →  LLM Integration · AI-powered Tooling · Prompt Engineering
-Creator Economy          →  Platform Infrastructure · Monetization Systems · Audience Analytics
-E-commerce Platforms     →  Multi-vendor · Logistics Integration · Secure Checkout
-Logistics Systems        →  Route Planning · Real-time Tracking · Distance-based Pricing
-Event Ticketing          →  End-to-end Ticket Lifecycle · Real-time Reporting
+- Proficient in JavaScript, PHP, Python, and experienced with frameworks like Laravel, 
+  Node.js, Express, FastAPI, React, Next.js, Nuxt.js, and Vue.js.
+- Skilled in AI-assisted development (OpenAI, Anthropic, Cursor), database management 
+  (PostgreSQL, MySQL, Redis), cloud infrastructure (AWS EC2/S3), and modern engineering 
+  practices (CI/CD, REST API design, Git workflows).
+- Experienced in building and shipping production systems across multiple domains, 
+  with a track record of working in fast-moving teams and delivering at scale.
 ```
-
----
 
 ## GitHub Activity
 
